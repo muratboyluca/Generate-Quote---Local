@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: purple;
+}
+
+.container {
+  background-color: pink;
+  border: 5px solid black;
+  height: 300px;
+  width: 750px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#button {
+  height: 50px;
+  width: 300px;
+  margin: 40px auto;
+  font-size: 25px;
+  background-color: white;
+}
+#quote {
+  margin: 20px auto;
+  font-size: 22px;
+  font-weight: 700;
+}
